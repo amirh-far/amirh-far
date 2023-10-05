@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Amirhosein Farhangian</h1>
-<h3>An assiduous student and developer</h3>
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
+<h3>An assiduous student and curious developer</h3>
 
 - 🔭 I’m currently working on **Pixely AI**
 
