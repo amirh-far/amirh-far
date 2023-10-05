@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Amirhosein Farhangian</h1>
-<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”  |      -Aaron Swartz (2013 ~ 1986) </i></p>  
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p> 
+<p align="right"><i> -Aaron Swartz (2013 ~ 1986) </i></p>
 
 <h3>An assiduous student and curious developer</h3>
 
