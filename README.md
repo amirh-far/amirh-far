@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amirhosein Farhangian</h1>
-<h3 align="center">An assiduous student and developer</h3>
+<h1>Hi 👋, I'm Amirhosein Farhangian</h1>
+<h3>An assiduous student and developer</h3>
 
 - 🔭 I’m currently working on **Pixely AI**
 
