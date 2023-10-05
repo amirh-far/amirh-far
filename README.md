@@ -19,6 +19,6 @@
 ![Git Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirh-far&hide=TeX&layout=compact&theme=radical&hide_border=true)
 
 
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-amirh_far-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirh-far)](https://www.linkedin.com/in/amirh-far)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
