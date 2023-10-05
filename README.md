@@ -17,7 +17,7 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=amirh-far&show_icons=true&locale=en" alt="amirh-far" /></p> -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=amirh-far&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-![Git Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirh-far&hide=TeX&layout=compact)
+![Git Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirh-far&hide=TeX&layout=compact&theme=radical)
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirh-far&show_icons=true&locale=en&layout=compact" alt="amirh-far" /></p> -->
 
