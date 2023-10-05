@@ -21,4 +21,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-amirh_far-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirh-far)](https://www.linkedin.com/in/amirh-far)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amirh.far)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amirh-far)
