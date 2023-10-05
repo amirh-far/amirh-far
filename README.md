@@ -21,4 +21,4 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-amirhfar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirh-far)](https://www.linkedin.com/in/amirh-far)
+[![Linkedin Badge](https://img.shields.io/badge/-"amirh-far"-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirh-far)](https://www.linkedin.com/in/amirh-far)
