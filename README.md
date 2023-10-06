@@ -48,4 +48,5 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amirh-far)
 
-### 💻 Check Out My Repos ⬇️
+<h2 alin="center">💻 Check Out My Repos ⬇️</h2>
+
