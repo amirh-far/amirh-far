@@ -23,6 +23,7 @@
 
 <h3 >Skills and Tools:</h3>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=amirh-far&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
