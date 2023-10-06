@@ -8,12 +8,12 @@
 
 📚 A Third year bachelor's degree student at University of Isfahan.<br>
 
-🏢 Currently an intern backend developer at Almubdieun Tech Company.<br>
+🏢 An intern backend developer at Almubdieun Tech Company.<br>
 
 
-🔭 Working on **Pixely AI Project**
+🔭 Currently Working on **Pixely AI Project**
 
-🌱 currently learning **Django and Rest Api frameworks**
+🌱 Learning **Django and Rest Api frameworks**
 
 - 📫 How to reach me **ahosein54@gmail.com**
 
