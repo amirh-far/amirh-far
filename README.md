@@ -6,9 +6,9 @@
 
 👋 Hey there , I'm Amirhosein Farhangian.<br>
 
-📚 A Third year bachelor's degree student at University of Isfahan.<br>
+📚 A Third year bachelor's degree student at University of Isfahan<br>
 
-🏢 An intern backend developer at Almubdieun Tech Company.<br>
+🏢 An intern backend developer at Almubdieun Tech Company<br>
 
 
 🔭 Currently Working on **Pixely AI Project**
