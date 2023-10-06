@@ -15,7 +15,10 @@
 
 🌱 Learning **Django and Rest Api frameworks**
 
-- 📫 How to reach me **ahosein54@gmail.com**
+<h2  >📫 Reach me on</h2>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amirh-far)
+[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahosein54@gmail.com?subject=Hello%20Amirhosein,%20From%20Github)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +32,6 @@
 ![Git Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirh-far&hide=TeX&layout=compact&theme=radical&hide_border=true)
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amirh-far)
-[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahosein54@gmail.com?subject=Hello%20Amirhosein,%20From%20Github)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amirh-far)
