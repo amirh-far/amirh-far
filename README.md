@@ -22,6 +22,8 @@
 ![Git Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirh-far&hide=TeX&layout=compact&theme=radical&hide_border=true)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-amirh_far-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirh-far)](https://www.linkedin.com/in/amirh-far)
+<!--[![Linkedin Badge](https://img.shields.io/badge/-amirh_far-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirh-far)](https://www.linkedin.com/in/amirh-far) -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amirh-far)
+[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahosein54@gmail.com?subject=Hello%20Amirhosein,%20From%20Github)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amirh-far)
