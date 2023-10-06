@@ -11,9 +11,9 @@
 🏢 Currently an intern backend developer at Almubdieun Tech Company.<br>
 
 
-- 🔭 I’m currently working on **Pixely AI**
+🔭 Working on **Pixely AI Project**
 
-- 🌱 I’m currently learning **Django and Rest Api frameworks**
+🌱 currently learning **Django and Rest Api frameworks**
 
 - 📫 How to reach me **ahosein54@gmail.com**
 
