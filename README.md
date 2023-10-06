@@ -2,7 +2,7 @@
 <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p> 
 <p align="right"><i> -Aaron Swartz (2013 ~ 1986)</i></p>
 
-## An Assiduous Student and Curious Developer
+### An Assiduous Student and Curious Developer
 
 👋 Hey there , I'm Amirhosein Farhangian.<br>
 
@@ -15,13 +15,13 @@
 
 🌱 Learning **Django and Rest Api frameworks**
 
-<h3>📫 Reach me on</h3>
+### 📫 Reach me on
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amirh-far)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahosein54@gmail.com?subject=Hello%20Amirhosein,%20From%20Github)
 
 
-<h3>Skills and Tools</h3>
+### Skills and Tools
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
