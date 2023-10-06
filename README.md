@@ -1,8 +1,12 @@
 <h1>Amirhosein Farhangian</h1>
 <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p> 
-<p align="right"><i> -Aaron Swartz (2013 ~ 1986) </i></p>
+<p align="right"><i> -Aaron Swartz (2013 ~ 1986)</i></p>
 
 <h3>An assiduous student and curious developer</h3>
+👋 Hey there , I'm Amirhosein Farhangian.<br>
+📚 A Third year bachelor's degree student at University of Isfahan.<br>
+🏢 Currently an intern backend developer at Almubdieun Tech Company.<br>
+
 
 - 🔭 I’m currently working on **Pixely AI**
 
