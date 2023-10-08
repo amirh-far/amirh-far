@@ -11,7 +11,7 @@
 🏢 An intern backend developer at Almubdieun Tech Company<br>
 
 
-🔭 Currently Working on **Pixely AI Project**
+🔭 Currently Working on **Pixely AI Website**
 
 🌱 Learning **Django and Rest Api frameworks**
 
