@@ -8,7 +8,7 @@
 
 📚 A Third year computer engineering bachelor's degree student at University of Isfahan<br>
 
-🏢 An intern backend developer at Almubdieun Tech Company<br>
+🏢 Backend developer at Almubdieun Tech Company<br>
 
 
 🔭 Currently Working on **Pixely AI Website**
