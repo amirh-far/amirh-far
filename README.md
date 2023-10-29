@@ -2,8 +2,6 @@
 <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p> 
 <p align="right"><i> -Aaron Swartz (2013 ~ 1986)</i></p>
 
-### An Assiduous Student and Curious Developer
-
 👋 Hey there , I'm Amirhosein Farhangian.<br>
 
 📚 A Third year computer engineering bachelor's degree student at University of Isfahan<br>
