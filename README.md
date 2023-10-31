@@ -11,7 +11,7 @@
 
 🔭 Currently Working on **Pixely AI Website**
 
-🌱 Learning **Django and Rest Api frameworks**
+🌱 Learning **Django and Sockets with Channels**
 
 ### 📫 Reach me on
 
