@@ -9,9 +9,9 @@
 🏢 Backend developer at Almubdieun Tech Company<br>
 
 
-🔭 Currently Working on **Pixely AI Website**
+🔭 Currently Working on **PixelyAI Website**
 
-🌱 Learning **Django and Sockets with Channels**
+🌱 Learning **Django and Web Sockets**
 
 ### 📫 Reach me on
 
