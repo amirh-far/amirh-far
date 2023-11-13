@@ -11,7 +11,7 @@
 
 🔭 Currently Working on **PixelyAI Website**
 
-🌱 Learning **Django and Web Sockets**
+🌱 Learning **Django and WebSockets**
 
 ### 📫 Reach me on
 
