@@ -4,6 +4,8 @@
 
 👋 Hey there, I'm Amirhosein Farhangian.<br>
 
+🪐 Backend, AI and Machine Learning Enthusiast <br>
+
 📚 A Third year computer engineering bachelor's degree student at University of Isfahan<br>
 
 🏢 Backend developer at Almubdieun Tech Company<br>
@@ -11,7 +13,7 @@
 
 🔭 Currently Working on **PixelyAI Website**
 
-🌱 Learning Django and WebSockets
+🌱 Learning Django and Machine Learning
 
 ### 📫 Reach me on
 
