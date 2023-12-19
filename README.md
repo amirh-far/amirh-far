@@ -21,7 +21,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amirh_exe)
 
 
-### 🛠️ Skills and Tools
+### 🛠️ Tech Deck and Tools
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
@@ -38,7 +38,7 @@
   <br>
 </p>
 
-### ⛏ AI and ML Tools
+### ⚡️ Magic Tools
 <p>
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -48,7 +48,7 @@
   <br>
 </p>
 
-### 🕹 Stats
+### 🪙 Stats
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=amirh-far&theme=radical&hide_border=true&count_private=true)
