@@ -38,7 +38,7 @@
   <br>
 </p>
 
-### ⚡️ Magic Tools
+### ⚡️ AI & ML Tools
 <p>
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -51,7 +51,7 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=amirh-far&theme=radical&hide_border=true&count_private=true)
-![Git Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirh-far&hide=TeX&layout=compact&theme=radical&hide_border=true)
+<!--![Git Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirh-far&hide=TeX&layout=compact&theme=radical&hide_border=true) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amirh-far)
 
