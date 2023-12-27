@@ -6,7 +6,7 @@
 
 🪐 Backend, AI and Machine Learning Enthusiast <br>
 
-📚 Third year computer engineering bachelor's degree student at University of Isfahan<br>
+📚 Computer engineering student at University of Isfahan<br>
 
 🏢 Backend developer at Almubdieun Tech Company<br>
 
