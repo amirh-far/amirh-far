@@ -10,9 +10,9 @@
 
 🏢 Backend developer at Almubdieun Tech Company<br>
 
-🔭 Currently Working on **PixelyAI Website**
+🔭 Currently Working on PixelyAI Website & an LSTM Model<br>
 
-🌱 Learning Django and Machine Learning
+🌱 Learning Django, Machine Learning & AI
 
 ### 📫 Reach me on
 
