@@ -9,7 +9,7 @@
 
 📚 Computer engineering student at University of Isfahan<br>
 
-🏢 Backend developer at Almubdieun Tech Company<br>
+🏢 Backend developer at AlmubdieunTech Company<br>
 
 🔭 Currently Working on PixelyAI Website & an LSTM Model<br>
 
