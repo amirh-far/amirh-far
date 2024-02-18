@@ -11,10 +11,6 @@
 
 🏢 Backend developer at AlmubdieunTech Company<br>
 
-🔭 Currently Working on PixelyAI Website & an LSTM Model<br>
-
-🌱 Learning Django, Machine Learning & AI
-
 ### 📫 Reach me on
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amirh-far)
