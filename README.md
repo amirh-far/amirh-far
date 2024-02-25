@@ -5,7 +5,7 @@
 
 👋 Hey there, I'm Amirhosein Farhangian.<br>
 
-🪐 Backend, AI and Machine Learning Enthusiast <br>
+🪐 Backend and AI Enthusiast <br>
 
 📚 Computer engineering student at University of Isfahan<br>
 
