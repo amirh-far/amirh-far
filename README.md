@@ -9,7 +9,7 @@
 
 📚 Computer engineering student at University of Isfahan<br>
 
-🏢 Backend developer at AlmubdieunTech Company<br>
+🏢 AI Engineer and Researcher at Netflow-AI Company<br>
 
 ### 📫 Reach me on
 
