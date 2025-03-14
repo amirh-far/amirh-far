@@ -3,7 +3,7 @@
 <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p> 
 <p align="right"><sub><i>- Aaron Swartz (2013 ~ 1986)</i></sub></p>
 
-<hr>
+<h2></h2>
 
 I'm Amirhosein Farhangian, a Computer Engineering student at the University of Isfahan and an AI Engineer at Netflow-AI Company. I'm open to research and professional collaborations in LLMs and computer vision—please feel free to reach out via email if interested.
 
