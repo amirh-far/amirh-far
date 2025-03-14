@@ -1,23 +1,19 @@
 
 <!-- Amirhosein Farhangian -->
 <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p> 
-<p align="right"><i> -Aaron Swartz (2013 ~ 1986)</i></p>
+<p align="right"><sub><i>- Aaron Swartz (2013 ~ 1986)</i></sub></p>
 
-👋 Hey there, I'm Amirhosein Farhangian.<br>
+<hr>
 
-🪐 Backend and AI Enthusiast <br>
+I'm Amirhosein Farhangian, a Computer Engineering student at the University of Isfahan and an AI Engineer at Netflow-AI Company. I'm open to research and professional collaborations in LLMs and computer vision—please feel free to reach out via email if interested.
 
-📚 Computer engineering student at University of Isfahan<br>
-
-🏢 AI Engineer and Researcher at Netflow-AI Company<br>
-
-### 📫 Reach me on
+### Reach me on
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amirh-far)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirh.far8@gmail.com?subject=Hello%20Amirhosein,%20From%20Github)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/amirh_far)
 
-### ⚙️ Tech Deck and Skills
+### Tech Deck and Skills
+
 <p>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -37,6 +33,8 @@
   <br>
 </p>
 
+
+
 <!-- ### ⚡️ AI & ML Tools
 <p>
   <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
@@ -46,7 +44,7 @@
 </p>
 -->
 
-### 🪙 Stats
+### Stats
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=amirh-far&theme=radical&hide_border=true&count_private=true) <!-- &count_private=true -->
