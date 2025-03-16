@@ -7,10 +7,14 @@
 
 I'm Amirhosein Farhangian, a Computer Engineering student at the University of Isfahan and an AI Engineer at Netflow-AI Company. I'm open to research and project collaborations in LLMs and computer vision—please feel free to reach out via email if interested.
 
+<br>
+
 ### Reach me on
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amirh-far)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirh.far8@gmail.com?subject=Hello%20Amirhosein,%20From%20Github)
+
+<br>
 
 ### Tech Deck and Skills
 
@@ -43,6 +47,7 @@ I'm Amirhosein Farhangian, a Computer Engineering student at the University of I
   <br>
 </p>
 -->
+<br>
 
 ### Stats
 
