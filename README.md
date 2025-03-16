@@ -43,7 +43,6 @@ I'm Amirhosein Farhangian, a Computer Engineering student at the University of I
   <br>
 </p>
 -->
-<br>
 
 ### Stats
 
