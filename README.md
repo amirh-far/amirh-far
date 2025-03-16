@@ -50,8 +50,8 @@ I'm Amirhosein Farhangian, a Computer Engineering student at the University of I
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=amirh-far&theme=radical&hide_border=true&count_private=true) <!-- &count_private=true -->
 
 <!--![Git Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirh-far&hide=TeX&layout=compact&theme=radical&hide_border=true) -->
-
+<!--
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amirh-far)
-
+!-->
 <h2 align="center">💻 Check Out My Repos ⬇️</h2>
 
