@@ -57,6 +57,6 @@ I'm Amirhosein Farhangian, a Computer Engineering student at the University of I
 <!--
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amirh-far)
 !-->
-<!-- <br> -->
+<br>
 <!-- <h2 align="center">💻 Check Out My Repos ⬇️</h2> -->
 
