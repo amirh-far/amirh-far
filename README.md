@@ -19,7 +19,7 @@ I'm Amirhosein Farhangian, a Computer Engineering student at the University of I
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -33,7 +33,13 @@ I'm Amirhosein Farhangian, a Computer Engineering student at the University of I
   <br>
 </p>
 
+### Open-Source Projects
 
+- [ledControlAgent](https://github.com/amirh-far/ledControlAgent): An AI-powered agent for remote LED control via ESP32 and Telegram bot. It supports dynamic lighting effects, adaptive decision-making, and intelligent automation. The system enables seamless Wi-Fi communication and customizable behaviors. Ideal for smart home and IoT applications.
+
+- [SearchBasedRAG](https://github.com/amirh-far/SearchBasedRAG): A cutting-edge Retrieval-Augmented Generation (RAG) agent designed to streamline coding workflows by integrating advanced search and generation tools. It leverages Morphic, Ollama, Open WebUI, Faiss, and BAAI/bge-large-en-v1.5 for efficient, privacy-preserving, and scalable coding assistance. Currently under development, it is RAGed with KServe documentation for serving as a code AI agent.
+
+- [Rental-System](https://github.com/amirh-far/Rental-System): A MySQL-based rental system built with Python and Pandas using the Sakila Database. It enables customer and manager interactions via terminal commands for film searches, profile updates, rentals, and payments. Features include registration and command-driven queries for both roles.
 
 <!-- ### ⚡️ AI & ML Tools
 <p>
@@ -53,7 +59,6 @@ I'm Amirhosein Farhangian, a Computer Engineering student at the University of I
 <!--
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amirh-far)
 !-->
-<br>
-<br>
-<h2 align="center">💻 Check Out My Repos ⬇️</h2>
+<!-- <br> -->
+<!-- <h2 align="center">💻 Check Out My Repos ⬇️</h2> -->
 
