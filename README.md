@@ -5,7 +5,7 @@
 
 <h2></h2>
 
-I'm Amirhosein Farhangian, a Computer Engineering student at the University of Isfahan and an AI Engineer at Netflow-AI Company. I'm open to research and project collaborations in LLMs and computer vision—please feel free to reach out via email if interested.
+I'm Amirhosein Farhangian, a Computer Engineering student at University of Isfahan and an AI Engineer at Netflow-AI Company. I'm open to research and project collaborations in LLMs and computer vision—please feel free to reach out via email if interested.
 
 ### Reach me on
 
