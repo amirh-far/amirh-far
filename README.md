@@ -25,6 +25,8 @@ I'm Amirhosein Farhangian, a Computer Engineering student at University of Isfah
 
 - [Rental-System](https://github.com/amirh-far/Rental-System): A MySQL-based rental system built with Python and Pandas using the Sakila Database. It enables customer and manager interactions via terminal commands for film searches, profile updates, rentals, and payments. Features include registration and command-driven queries for both roles.
 
+- [NLPlayground](https://github.com/amirh-far/NLPlayground): A personal repository where I progressively document and update my NLP practices, focusing on data preprocessing, model training, and more.
+
 ### Tech Deck and Skills
 
 <p>
