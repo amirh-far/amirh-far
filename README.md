@@ -27,7 +27,7 @@ I'm Amirhosein Farhangian, a Computer Engineering student at University of Isfah
 
 - [NLPlayground](https://github.com/amirh-far/NLPlayground): A personal repository where I progressively document and update my NLP practices, focusing on data preprocessing, model training, and more.
   
-- [promptMaster](https://github.com/amirh-far/promptMaster): Best system prompts I use for prompt engineering
+- [promptMaster](https://github.com/amirh-far/promptMaster): Best system prompts I use for prompt engineering, including leaked prompts.
 
 ### Tech Deck and Skills
 
