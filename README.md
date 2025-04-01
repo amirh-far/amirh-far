@@ -30,7 +30,8 @@ I'm Amirhosein Farhangian, a Computer Engineering student at University of Isfah
 
 - [dataDOOM](https://github.com/amirh-far/dataDOOM): Some data engineering / mining practices I progressively do, personal usage that might be useful for people.
 
-- [Rental-System](https://github.com/amirh-far/Rental-System): A MySQL-based rental system built with Python and Pandas using the Sakila Database. It enables customer and manager interactions via terminal commands for film searches, profile updates, rentals, and payments. Features include registration and command-driven queries for both roles.
+- [Rental-System](https://github.com/amirh-far/Rental-System): A MySQL-based rental system built with Python and Pandas. It enables customer and manager interactions via terminal commands for film searches, profile updates, rentals, and payments and some other features.
+  
 ### Tech Deck and Skills
 
 <p>
