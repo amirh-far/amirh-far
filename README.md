@@ -21,7 +21,7 @@ I'm Amirhosein Farhangian, a Computer Engineering student at University of Isfah
 
 - [ledControlAgent](https://github.com/amirh-far/ledControlAgent): An AI-powered agent for remote LED control via ESP32 and Telegram bot. It supports dynamic lighting effects, adaptive decision-making, and intelligent automation. The system enables seamless Wi-Fi communication and customizable behaviors. Ideal for smart home and IoT applications.
 
-- [SearchBasedRAG](https://github.com/amirh-far/SearchBasedRAG): A cutting-edge Retrieval-Augmented Generation (RAG) agent designed to streamline coding workflows by integrating advanced search and generation tools. It leverages Morphic, Ollama, Open WebUI, Faiss, and BAAI/bge-large-en-v1.5 for efficient, privacy-preserving, and scalable coding assistance. Currently under development, it is RAGed with KServe documentation for serving as a code AI agent.
+- [SearchBasedRAG](https://github.com/amirh-far/SearchBasedRAG): A cutting-edge Retrieval-Augmented Generation (RAG) agent designed to streamline coding workflows by integrating advanced search and generation tools. It uses Morphic, Ollama, Open WebUI, Faiss, and BAAI/bge-large-en-v1.5 for efficient, and scalable coding assistance. Currently under development, it is RAGed with KServe docs as a code AI agent.
 
 - [Rental-System](https://github.com/amirh-far/Rental-System): A MySQL-based rental system built with Python and Pandas using the Sakila Database. It enables customer and manager interactions via terminal commands for film searches, profile updates, rentals, and payments. Features include registration and command-driven queries for both roles.
 
