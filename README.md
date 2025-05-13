@@ -1,13 +1,10 @@
-
-<!-- Amirhosein Farhangian -->
-<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p> 
-<p align="right"><sub><i>- Aaron Swartz (2013 ~ 1986)</i></sub></p>
+<p align="center"><i>“Ey yoo guys read some books or code. ty :}”</i></p> 
 
 <h2></h2>
 
-I'm Amirhosein Farhangian, a Computer Engineering student at University of Isfahan and an AI Engineer at Netflow-AI Company. I'm open to research and project collaborations in LLMs and computer vision—please feel free to reach out via email if interested.
+I'm Amirhosein Farhangian, a Computer Engineering student at University of Isfahan and an AI Engineer at [My](https://github.com/ERxAI) Company. I'm always free for coding projects and research ideas. Reach out if interested. 
 
-### Reach me on
+### Reach me
 
 <a href="https://www.linkedin.com/in/amirh-far">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25"/>
@@ -17,7 +14,7 @@ I'm Amirhosein Farhangian, a Computer Engineering student at University of Isfah
   <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
 </a>
 
-### Open-Source Projects
+### Some of my good Projects
 
 - [ledControlAgent](https://github.com/amirh-far/ledControlAgent): An AI-powered IoT agent for remote LED control via ESP32 and Telegram bot. It supports adaptive decision-making, and intelligent automation. The system enables seamless Wi-Fi communication and customizable behaviors. Ideal for smart home and IoT applications.
 
