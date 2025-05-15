@@ -4,17 +4,7 @@
 
 I'm Amirhosein Farhangian, a Computer Engineering student at University of Isfahan and an AI Engineer. I'm always free for coding projects and research ideas. Reach out if interested. 
 
-### Reach me
-
-<a href="https://www.linkedin.com/in/amirh-far">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25"/>
-</a>
-
-<a href="mailto:amirh.far8@gmail.com?subject=Hello%20Amirhosein,%20From%20Github">
-  <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
-</a>
-
-### Some of my good Projects
+### my opn-src projects 
 
 - [ledControlAgent](https://github.com/amirh-far/ledControlAgent): An AI-powered IoT agent for remote LED control via ESP32 and Telegram bot. It supports adaptive decision-making, and intelligent automation. The system enables seamless Wi-Fi communication and customizable behaviors. Ideal for smart home and IoT applications.
 
@@ -30,6 +20,16 @@ I'm Amirhosein Farhangian, a Computer Engineering student at University of Isfah
 
 - [Rental-System](https://github.com/amirh-far/Rental-System): A MySQL-based rental system built with Python and Pandas. It enables customer and manager interactions via terminal commands for film searches, profile updates, rentals, and payments and some other features.
   
+### Reach me
+
+<a href="https://www.linkedin.com/in/amirh-far">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25"/>
+</a>
+
+<a href="mailto:amirh.far8@gmail.com?subject=Hello%20Amirhosein,%20From%20Github">
+  <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
+</a>
+
 ### Tech Deck and Skills
 
 <p>
@@ -50,23 +50,9 @@ I'm Amirhosein Farhangian, a Computer Engineering student at University of Isfah
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25"/>
 </p>
 
-  <br>
-<!-- ### ⚡️ AI & ML Tools
-<p>
-  <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  
-  <br>
-</p>
--->
-
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=amirh-far&theme=radical&hide_border=true&count_private=true" width="400"/>
-<!--![Git Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirh-far&hide=TeX&layout=compact&theme=radical&hide_border=true) -->
-<!--
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amirh-far)
-!-->
-<br>
-<!-- <h2 align="center">💻 Check Out My Repos ⬇️</h2> -->
+<p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=amirh-far&theme=radical&hide_border=true&count_private=true" width="400"/>
+</p>
 
