@@ -2,7 +2,7 @@
 
 <h2></h2>
 
-I'm Amirhosein Farhangian, a Computer Engineering student at University of Isfahan and an AI Engineer at [My](https://github.com/ERxAI) Company. I'm always free for coding projects and research ideas. Reach out if interested. 
+I'm Amirhosein Farhangian, a Computer Engineering student at University of Isfahan and an AI Engineer. I'm always free for coding projects and research ideas. Reach out if interested. 
 
 ### Reach me
 
