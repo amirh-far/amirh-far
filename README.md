@@ -4,7 +4,7 @@
 
 I'm Amirhosein Farhangian, a Computer Engineering student at University of Isfahan and an AI Engineer. I'm always free for coding projects and research ideas. Reach out if interested. 
 
-### my opn-src projects 
+### My Open Source Projects 
 
 - [ledControlAgent](https://github.com/amirh-far/ledControlAgent): An AI-powered IoT agent for remote LED control via ESP32 and Telegram bot. It supports adaptive decision-making, and intelligent automation. The system enables seamless Wi-Fi communication and customizable behaviors. Ideal for smart home and IoT applications.
 
@@ -20,7 +20,7 @@ I'm Amirhosein Farhangian, a Computer Engineering student at University of Isfah
 
 - [Rental-System](https://github.com/amirh-far/Rental-System): A MySQL-based rental system built with Python and Pandas. It enables customer and manager interactions via terminal commands for film searches, profile updates, rentals, and payments and some other features.
   
-### Reach me
+### Reach Me
 
 <a href="https://www.linkedin.com/in/amirh-far">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25"/>
@@ -47,7 +47,7 @@ I'm Amirhosein Farhangian, a Computer Engineering student at University of Isfah
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" height="25"/>
 </p>
 
-### Stats
+### Git Stats
 
 <p> 
   <img src="https://github-readme-stats.vercel.app/api?username=amirh-far&theme=radical&hide_border=true&count_private=true" width="400"/>
