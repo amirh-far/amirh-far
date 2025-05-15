@@ -1,4 +1,4 @@
-<p align="center">Ey yoo guys read some books or code. ty :}”</i></p> 
+<p align="center">Ey yoo guys read some books or code.”</i></p> 
 
 <h2></h2>
 
