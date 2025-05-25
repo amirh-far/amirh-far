@@ -1,8 +1,5 @@
-<p align="center"><i>Ey yoo guys read some books or code.</i></p> 
-
-<h2></h2>
-
-I'm Amirhosein Farhangian, a Computer Engineering student at University of Isfahan and an AI Engineer. I'm always free for coding projects and research ideas. Reach out if interested. 
+## <p align=center><b>Amirhosein Farhangian</b></p>
+<p align=center><i>AI Engineer & Researcher</i></p>
 
 ### My Open Source Projects 
 
