@@ -3,18 +3,19 @@
 
 ### My Open-Source Projects 
 
-[ledControlAgent](https://github.com/amirh-far/ledControlAgent): AI-powered IoT agent for remote LED control using ESP32 and Telegram bot. Supports adaptive decision-making and customizable automation for smart environments. Seamless Wi-Fi communication** ideal for smart home and IoT applications.
+[ledControlAgent](https://github.com/amirh-far/ledControlAgent) is an AI-powered IoT agent for remote LED control using ESP32 and Telegram bot. Supports adaptive decision-making and customizable automation for smart environments. Seamless Wi-Fi communication** ideal for smart home and IoT applications.
 
-[SearchBasedRAG](https://github.com/amirh-far/SearchBasedRAG): A cutting-edge Retrieval-Augmented Generation (RAG) agent designed to streamline coding workflows by integrating advanced search and generation tools. It uses Morphic, Ollama, Open WebUI, Faiss, and BAAI/bge-large-en-v1.5 for efficient, and scalable coding assistance. Currently under development, it is RAGed with KServe docs as a code AI agent.
+[SearchBasedRAG](https://github.com/amirh-far/SearchBasedRAG) is a cutting-edge RAG agent that streamlines coding with intelligent search and generation, powered by Morphic, Ollama, Faiss, and BGE embeddings.
+Currently RAGed with KServe docs, it delivers fast, scalable, and context-aware code assistance.
 
-[NLPlayground](https://github.com/amirh-far/NLPlayground): A personal repository where I progressively document and update my NLP practices, focusing on data preprocessing, model training, and more.
+[ [NLPlayground](https://github.com/amirh-far/NLPlayground) ] a personal repository where I progressively document and update my NLP practices, focusing on data preprocessing, model training, and more.
   
-[dataDOOM](https://github.com/amirh-far/dataDOOM): Some data engineering / mining practices I progressively do, personal usage that might be useful for people.
+( [dataDOOM](https://github.com/amirh-far/dataDOOM) ) Some data engineering / mining practices I progressively do, personal usage that might be useful for people.
   
-[promptMaster](https://github.com/amirh-far/promptMaster): Best system prompts I use for prompt engineering, including leaked prompts.
+< [promptMaster](https://github.com/amirh-far/promptMaster) > Best system prompts I use for prompt engineering, including leaked prompts.
 
 
-[Rental-System](https://github.com/amirh-far/Rental-System): A MySQL-based rental system built with Python and Pandas. It enables customer and manager interactions via terminal commands for film searches, profile updates, rentals, and payments and some other features.
+[Rental-System](https://github.com/amirh-far/Rental-System) } a MySQL-based rental system built with Python and Pandas. It enables customer and manager interactions via terminal commands for film searches, profile updates, rentals, and payments and some other features.
   
 ### Reach Me
 
