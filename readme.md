@@ -3,7 +3,7 @@
 
 ### My Open-Source Projects 
 
-[ledControlAgent](https://github.com/amirh-far/ledControlAgent): AI-powered IoT agent** for remote LED control using ESP32 and Telegram bot. Supports adaptive decision-making** and customizable automation for smart environments. Seamless Wi-Fi communication** ideal for smart home and IoT applications.
+[ledControlAgent](https://github.com/amirh-far/ledControlAgent): AI-powered IoT agent for remote LED control using ESP32 and Telegram bot. Supports adaptive decision-making and customizable automation for smart environments. Seamless Wi-Fi communication** ideal for smart home and IoT applications.
 
 [SearchBasedRAG](https://github.com/amirh-far/SearchBasedRAG): A cutting-edge Retrieval-Augmented Generation (RAG) agent designed to streamline coding workflows by integrating advanced search and generation tools. It uses Morphic, Ollama, Open WebUI, Faiss, and BAAI/bge-large-en-v1.5 for efficient, and scalable coding assistance. Currently under development, it is RAGed with KServe docs as a code AI agent.
 
