@@ -17,7 +17,6 @@ Currently RAGed with KServe docs, it delivers fast, scalable, and context-aware 
 
 [Rental-System](https://github.com/amirh-far/Rental-System) } a MySQL-based rental system built with Python and Pandas. It enables customer and manager interactions via terminal commands for film searches, profile updates, rentals, and payments and some other features.
 
-<br>
 
 ### Reach Me
 
