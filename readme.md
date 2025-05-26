@@ -16,7 +16,9 @@ Currently RAGed with KServe docs, it delivers fast, scalable, and context-aware 
 
 
 [Rental-System](https://github.com/amirh-far/Rental-System) } a MySQL-based rental system built with Python and Pandas. It enables customer and manager interactions via terminal commands for film searches, profile updates, rentals, and payments and some other features.
-  
+
+<br>
+
 ### Reach Me
 
 <a href="https://www.linkedin.com/in/amirh-far">
@@ -26,6 +28,9 @@ Currently RAGed with KServe docs, it delivers fast, scalable, and context-aware 
 <a href="mailto:amirh.far8@gmail.com?subject=Hello%20Amirhosein,%20From%20Github">
   <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
 </a>
+
+<br>
+<br>
 
 ### Tech Deck and Skills
 
@@ -44,7 +49,6 @@ Currently RAGed with KServe docs, it delivers fast, scalable, and context-aware 
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" height="25"/>
 </p>
 
-<br>
 <br>
 <br>
 
