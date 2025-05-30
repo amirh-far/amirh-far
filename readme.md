@@ -8,14 +8,14 @@
 [SearchBasedRAG](https://github.com/amirh-far/SearchBasedRAG) is a cutting-edge RAG agent that streamlines coding with intelligent search and generation, powered by Morphic, Ollama, Faiss, and BGE embeddings.
 Currently RAGed with KServe docs, it delivers fast, scalable, and context-aware code assistance.
 
-[ [NLPlayground](https://github.com/amirh-far/NLPlayground) ] a personal repository where I progressively document and update my NLP practices, focusing on data preprocessing, model training, and more.
+[NLPlayground](https://github.com/amirh-far/NLPlayground) a personal repository where I progressively document and update my NLP practices, focusing on data preprocessing, model training, and more.
   
-( [dataDOOM](https://github.com/amirh-far/dataDOOM) ) Some data engineering / mining practices I progressively do, personal usage that might be useful for people.
+[dataDOOM](https://github.com/amirh-far/dataDOOM) Some data engineering / mining practices I progressively do, personal usage that might be useful for people.
   
-< [promptMaster](https://github.com/amirh-far/promptMaster) > Best system prompts I use for prompt engineering, including leaked prompts.
+[promptMaster](https://github.com/amirh-far/promptMaster)Best system prompts I use for prompt engineering, including leaked prompts.
 
 
-[Rental-System](https://github.com/amirh-far/Rental-System) } a MySQL-based rental system built with Python and Pandas. It enables customer and manager interactions via terminal commands for film searches, profile updates, rentals, and payments and some other features.
+[Rental-System](https://github.com/amirh-far/Rental-System) a MySQL-based rental system built with Python and Pandas. It enables customer and manager interactions via terminal commands for film searches, profile updates, rentals, and payments and some other features.
 
 
 ### Reach Me
