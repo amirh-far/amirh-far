@@ -11,9 +11,6 @@ Currently RAGed with KServe docs, it delivers fast, scalable, and context-aware 
 [NLPlayground](https://github.com/amirh-far/NLPlayground) a personal repository where I progressively document and update my NLP practices, focusing on data preprocessing, model training, and more.
   
 [dataDOOM](https://github.com/amirh-far/dataDOOM) Some data engineering / mining practices I progressively do, personal usage that might be useful for people.
-  
-[promptMaster](https://github.com/amirh-far/promptMaster)Best system prompts I use for prompt engineering, including leaked prompts.
-
 
 [Rental-System](https://github.com/amirh-far/Rental-System) a MySQL-based rental system built with Python and Pandas. It enables customer and manager interactions via terminal commands for film searches, profile updates, rentals, and payments and some other features.
 
