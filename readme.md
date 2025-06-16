@@ -19,7 +19,7 @@ Currently RAGed with KServe docs, it delivers fast, scalable, and context-aware 
 
 ### Reach Me
 
-<a href="https://www.linkedin.com/in/amirh-far">
+<a href="https://www.linkedin.com/in/4mirfar/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" height="25"/>
 </a>
 
